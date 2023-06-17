@@ -1,0 +1,8 @@
+*.pyc
+sandbox.py
+.idea
+sorted_list.py
+.pytest_cache
+._*
+.git_temp
+__pycache__
